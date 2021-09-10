@@ -1,1 +1,1 @@
-# Music-Recognition-Using-STFTs
+# Music-Detection-Using-STFTs
