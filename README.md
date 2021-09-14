@@ -1,4 +1,4 @@
-# Part of Project: Classifying Audio as Extremist Propaganda or Not
+## Part of Project: Classifying Audio as Extremist Propaganda or Not
 
 
-## Method: Use STFTs to detect the presence of extremist music in propaganda audio
+### Method: Use STFTs to detect the presence of extremist music in propaganda audio
