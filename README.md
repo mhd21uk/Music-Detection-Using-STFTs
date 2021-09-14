@@ -3,6 +3,29 @@
 
 ### Method: Use STFTs to detect the presence of extremist music in propaganda audio
 
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+
+<b>Note: The following libraries are no longer available. Alternatives need to be provided in order to output a confusion matrix, and more importantly, to produce the spectrograms</b>
+
+-from pandas_ml import ConfusionMatrix <br>
+-import librosa <br>
+-import librosa.display <br>
+
+<b> In the meantime, previously computed hash tables have already been created and can be loaded in (code to load the hash tables in already present in the notebook) </b>
+
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+
+### Beneficiaries:
+
+The main beneficiaries of this project are the major social media platforms, such as Facebook and YouTube.
+These platforms would be able to use, and build on, the created models to automatically detect and filter
+out extremist propaganda, which significantly aids their content moderating teams. This project also serves
+a global benefit by reducing terrorist media exposure, making recruitment much more difficult, and hence
+works to erase toxic extremist ideology.
+
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+
+### The Method in Detail:
 
 *Files in Repo:
 
