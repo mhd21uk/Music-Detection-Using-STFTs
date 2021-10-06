@@ -27,6 +27,8 @@ works to erase toxic extremist ideology.
 
 ### The Method in Detail:
 
+[TO BE FILLED SOON]
+
 *Files in Repo:
 
 - STFT_Music_Recognition_Final.ipynb --> Python notebook where the entire core code lies
